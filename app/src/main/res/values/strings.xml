@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HttpURLConnection</string>
+    <string name="btn_GET">GET</string>
+    <string name="btn_POST">POST</string>
+</resources>
