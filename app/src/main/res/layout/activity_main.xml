@@ -20,6 +20,18 @@
         android:text="@string/btn_POST"
         android:id="@+id/btn_POST"
         android:layout_gravity="center" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_GSONTOJSON"
+        android:layout_gravity="center"
+        android:text="@string/btn_GSON"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_GSONFROMJSON"
+        android:layout_gravity="center"
+        android:text="@string/btn_GSONFROMJSON"/>
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
